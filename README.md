@@ -1,2 +1,2 @@
 # javaprojects
-Projetos em Java
+Java projects for study purpose. 
